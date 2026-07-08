@@ -1,6 +1,6 @@
 # Creating a New File or Folder
 
-Use these steps to create a new documentation page or folder in GitHub.
+Use these steps to create a new documentation page or folder in GitHub. Idea is to mimic Confluence and do everything on the Git repo web alone. 
 
 ---
 ## Add rules here for consistency 
