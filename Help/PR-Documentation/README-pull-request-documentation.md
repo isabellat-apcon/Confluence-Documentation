@@ -26,16 +26,17 @@ Explain what changed.
 Describe how you tested this.
 
 ## Mantis Bug Number
-0000
+
 
 ## Resolved in build#
-0101
+
 
 ## Screenshots
 Add screenshots if needed.
 ```
 
 <img width="1914" height="941" alt="create-pull_request_template md" src="https://github.com/user-attachments/assets/de77d3e1-2fbf-4d69-a6c3-9532143a08fd" />
+(ignore the 0000 and 0101 in the image)
 
 
 3. When a user opens a new pr, the template text should automatically appear in the pr description box.
